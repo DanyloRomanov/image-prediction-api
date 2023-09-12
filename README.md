@@ -3,7 +3,7 @@
 # Local run commands:
 ## dockerize
 docker build -t image-detection-app . 
-Docker run  -p 80:80 image-detection-app
+docker run  -p 80:80 image-detection-app
 
 # Run in heroku
  ### logs
